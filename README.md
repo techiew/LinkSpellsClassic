@@ -13,7 +13,7 @@ This World of Warcraft addon lets you link your spells and talents in chat to ot
 
 **1. The Tooltips**
 
-The code starts by first looking for spellbook and talent tree click events, when a button in either one of these is clicked, information from the tooltip that is displayed at the time of the click is read and saved in the spell cache.
+The code starts by looking for spellbook and talent tree click events. When a button in either one of these is clicked, information from the tooltip that is displayed at the time of the click is read and saved in the spell cache.
 
 **2. The Spell Cache**
 
