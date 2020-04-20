@@ -1,0 +1,12 @@
+## Interface: 11304
+## Title: LinkSpellsClassic
+## Notes: Link spells and talents in chat for Classic WoW.
+## Author: Techie
+## Version: 1.0
+## SavedVariables: LSC_MSG
+
+LinkSpellsClassicSlashCmds.lua
+LinkSpellsClassic.lua
+
+# Github: https://github.com/techiew/LinkSpellsClassic
+
