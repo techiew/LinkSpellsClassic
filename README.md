@@ -20,7 +20,7 @@ The code starts by looking for spellbook and talent tree click events. When a bu
 
 The spell cache stores all information about a spell that was retrieved from the spell tooltip, the spell cache is a lua table where each top level entry is also a table with a name like this: "spell name + rank + clone number". In each child table within the spell cache, the data for that specific spell can be found, such as mana cost, cast time, range, etc. "Clone numbers" are used for when a spell with the same rank and name have been shared by different players, in order to uniquely identify them. That's because there are many factors that can change the stats or description of a spell, even if it is the same spell with the same rank.
 
-**3. Grabbing Spell Data**
+**3. Spell Links**
 
 When the player shift-clicks on a spell or talent, the spell name or talent name will be pasted into the chat box as a message, but only if the chat box is already open. The pasted message will be formatted like this: !Link\[spell name\]. When the user sends the message with this text in it, the installed addon for every user in the chat channel will automatically filter and edit that part of the text in such a way that it becomes a clickable link. It works like this because you cannot directly send custom clickable links over chat to other players, so the process of changing it to a link needs to happen clientside for each client.
 
