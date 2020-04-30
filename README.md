@@ -26,7 +26,9 @@ When the player shift-clicks on a spell or talent, the spell name or talent name
 
 **4. Sharing Spell Data**
 
-At the same time that the user sends the link message in chat, the addon will automatically communicate with other clients with the addon installed in order to give them the spell data required to show the tooltip when clicking the link. The data is stored in each client's spell cache. You can read more about chat links and their formatting here: https://wowwiki.fandom.com/wiki/UI_escape_sequences
+At the same time that the user sends the link message in chat, the addon will automatically communicate with other clients with the addon installed in order to give them the spell data required to show the tooltip when clicking the link. The data is stored in each client's spell cache. 
+
+You can read more about chat links in WoW and their formatting here: https://wowwiki.fandom.com/wiki/UI_escape_sequences
 
 ## Contributions
 Feel free to provide suggestions, code or pull requests.
