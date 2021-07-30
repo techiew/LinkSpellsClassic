@@ -1,5 +1,5 @@
 ## LinkSpellsClassic
-This World of Warcraft addon lets you link your spells and talents in chat to other players just like you would in retail. For more info click on the CurseForge or WoWInterface links below.
+This World of Warcraft addon lets you link your spells and talents in chat to other players just like you would in retail. For more information click on the CurseForge link below.
 
 ![Chat link preview](https://github.com/techiew/LinkSpellsClassic/blob/master/chat%20link%20preview.png)
 
@@ -7,8 +7,6 @@ This World of Warcraft addon lets you link your spells and talents in chat to ot
 
 ## Download
 [curseforge.com](https://www.curseforge.com/wow/addons/linkspellsclassic)
-
-[wowinterface.com](https://www.wowinterface.com/downloads/info25557-LinkSpellsClassic.html)
 
 ## Quick code summary
 
