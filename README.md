@@ -5,7 +5,7 @@ This World of Warcraft addon lets you link your spells and talents in chat to ot
 
 ![Tooltip preview](https://github.com/techiew/LinkSpellsClassic/blob/master/tooltip%20preview.png)
 
-## Download
+## Download link
 [curseforge.com](https://www.curseforge.com/wow/addons/linkspellsclassic)
 
 ## Quick code summary
